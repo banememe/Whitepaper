@@ -2,7 +2,11 @@
 ​Hi there, I'm Bane! 👋
 ​I am a professional truck driver with 10 years of experience on the roads of Europe. I am merging the world of heavy logistics with the digital economy by building the first authentic transport meme brand on the Solana blockchain. 🛣️
 ​🛡️ Project Security & Trust:
-​Smart Contract: 5DprnRpKS1qrrbkNuQh6XirvQKJkkYKo1vuosk91pump
+
+​Smart Contract:
+
+5DprnRpKS1qrrbkNuQh6XirvQKJkkYKo1vuosk91pump
+
 ​Authority: Renounced (N/A) - Full on-chain transparency and security.
 ​Liquidity: 100% Locked/Burned upon Raydium migration.
 ​🚀 The Vision:
