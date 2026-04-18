@@ -10,9 +10,13 @@
 ​Physical Utility: Integrating $BNM token into real-world physical products and merchandise.
 ​Transparency: A project driven by a real person with a real story.
 ​🌐 Official Links:
-​Telegram Group: t.me/banememe
-​Facebook Community: Follow our Journey
-​Website: banememe.com
+
+​Telegram Group: - https://t.me/banememe
+
+​Facebook Community: - https://www.facebook.com/share/1GPtvyUZDv/
+
+​Website: - https://banememe.com
+
 ​Drive safe, invest smart! 🚛💨🚀
 BANEMEME ($BNM)
 
